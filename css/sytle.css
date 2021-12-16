@@ -1,0 +1,37 @@
+
+.main-container {
+    color: #fff;
+    background: url("https://images.unsplash.com/photo-1523225580870-1780b3b506fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-size: cover;
+    background-position: right;
+    height: 500px;
+    
+    
+}
+
+
+
+.text-logo{
+    height: 50px;
+    color:rgb(10, 142, 182);
+    margin-top: 25px;
+}
+
+/* .icon-main{
+    height: 80px;
+} */
+
+.liner{
+    background-color:rgb(37, 34, 34);
+    height: 65px;
+}
+.liner-2{
+    background-color:rgb(37, 34, 34);
+    height: 90px;
+}
+
+
+.first-text h2{
+    color:rgb(10, 142, 182);
+    
+}
